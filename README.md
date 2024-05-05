@@ -4,8 +4,7 @@
     </h1>
 </div>
 
-<img src="![image](https://github.com/BrayamDev/BrayamDev/assets/126234214/3a20af55-a998-4541-8163-ace7d40b7cc2)
-">
+<img src="https://i.imgur.com/weNbhGZ.png">
 
 <!--
 **BrayamDev/BrayamDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -21,7 +21,7 @@
 - Graduado y egresado de la tecnología en análisis y desarrollo de sistemas de información
 - Estudiante de ingeniería de software en la universidad UNINPAHU
 
-## :mortar_board: Tecnologias en las cuales tengo experiencia
+## :mortar_board: Tecnologias relevantes en las cuales tengo experiencia
 - :computer: Desarrollo aplicaciones web en .net
 - :red_circle: Desarrollo en angular 
 - :purple_circle: Desarrollo en PHP8

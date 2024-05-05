@@ -3,14 +3,13 @@
         ¡Hola!, Soy Brayam Fajardo👋
     </h1>    
     <img src="https://i.postimg.cc/ncQv7yrm/brayamfajardo.png](https://i.postimg.cc/vZr27gT5/brayamfajardo-1.png">
-
 <h3>
-    Mira más a detalle mi código
-    :mag_right:
-</h3>
-
+    Contactame en
     
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@YamDevs?sub_confirmation=1)
+[![Gmail](https://img.shields.io/badge/BrayamFajardo23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![WhatsApp](https://img.shields.io/badge/+57_3023158718-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+</h3>
 
 </div>
 

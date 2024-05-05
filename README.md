@@ -4,7 +4,7 @@
     </h1>    
     <img src="https://i.postimg.cc/ncQv7yrm/brayamfajardo.png](https://i.postimg.cc/vZr27gT5/brayamfajardo-1.png">
 
-[![YouTube Channel Ir al canal](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@YamDevs?sub_confirmation=1)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@YamDevs?sub_confirmation=1)
 </div>
 
 

@@ -1,13 +1,13 @@
 <div align="center">
     <h1>
-    ¡Hola!, Soy Brayam Fajardo👋
-    </h1>
+        ¡Hola!, Soy Brayam Fajardo👋
+    </h1>    
+    <img src="https://i.postimg.cc/ncQv7yrm/brayamfajardo.png](https://i.postimg.cc/vZr27gT5/brayamfajardo-1.png">
+
+[![YouTube Channel Ir al canal](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@YamDevs?sub_confirmation=1)
 </div>
 
-<img src="[https://i.imgur.com/weNbhGZ.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.davidibiza.com%2Ftutorial-subir-publicar-fotos-google-imagenes%2F&psig=AOvVaw0uAwsG3eyFYsTDBYQap8Ty&ust=1714976004782000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiTo87t9YUDFQAAAAAdAAAAABAE)">
 
-<!--
-**BrayamDev/BrayamDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

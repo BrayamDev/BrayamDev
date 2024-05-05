@@ -1,7 +1,8 @@
-
-  <h1>
+<div align="center">
+    <h1>
     ¡Hola!, Soy Brayam Fajardo👋
-  </h1> 
+    </h1>
+</div>
 
 
 

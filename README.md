@@ -1,4 +1,7 @@
+\begin{center}
 ## HI, I AM Brayam Fajardo 👋
+\end{center}
+
 
 <!--
 **BrayamDev/BrayamDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

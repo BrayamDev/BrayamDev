@@ -1,6 +1,8 @@
-\begin{center}
-## HI, I AM Brayam Fajardo 👋
-\end{center}
+
+  <h1>
+    ¡Hola!, Soy Brayam Fajardo👋
+  </h1> 
+
 
 
 <!--

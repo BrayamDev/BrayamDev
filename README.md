@@ -59,7 +59,7 @@
                             src="https://i.postimg.cc/Wbz3y3D8/Yamdevs.png" width="400"
                             alt="Sistema control de obra"></a>
                     <p>
-                        <a href="https://github.com/BrayamDev/Control-de-obra" target="_blank">
+                        <a href="https://github.com/BrayamDev/PetGuardian" target="_blank">
                             <img
                                 src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                         </a>

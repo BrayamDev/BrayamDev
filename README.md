@@ -43,25 +43,19 @@
                         <a href="https://github.com/BrayamDev/ControlObra" target="_blank">
                             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                         </a>
-                        <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-                            <img src="https://img.shields.io/badge/YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
-                        </a>
                     </p>
                     <p>Trabajé en colaboración con Jorge, un cliente mexicano que conocí a través de videos de YouTube. Juntos creamos un sistema de gestión de obras utilizando las tecnologías PHP 8, Bootstrap 5 y JavaScript, en conjunto con una base de datos MySQL.</p>
                 </div>
             </td>
             <td>
-                <h3>Sistema Pet Guardian</h3>
+                <h3>Sistema Patitas en cuidado</h3>
                 <div class="center">
                     <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
                         <img src="https://i.postimg.cc/Wbz3y3D8/Yamdevs.png" width="400" alt="Sistema Pet Guardian">
                     </a>
                     <p>
-                        <a href="https://github.com/BrayamDev/PetGuardian" target="_blank">
+                        <a href="https://github.com/BrayamDev/PatitasEnCuidadoCleanArchitecture" target="_blank">
                             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-                        </a>
-                        <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-                            <img src="https://img.shields.io/badge/YOUTUBE-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
                         </a>
                     </p>
                     <p>Sistema diseñado para ayudar a fundaciones en el manejo ágil y preciso de animales. Este proyecto tiene como objetivo facilitar el ingreso, seguimiento y adopción de animales rescatados.</p>
